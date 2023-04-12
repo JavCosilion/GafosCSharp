@@ -1,0 +1,39 @@
+F:\Grafosy\Grafos\obj\Debug\Grafos.csprojResolveAssemblyReference.cache
+F:\Grafosy\Grafos\obj\Debug\Grafos.Form1.resources
+F:\Grafosy\Grafos\obj\Debug\Grafos.Properties.Resources.resources
+F:\Grafosy\Grafos\obj\Debug\Grafos.csproj.GenerateResource.Cache
+F:\Grafosy\Grafos\bin\Debug\Grafos.exe.config
+F:\Grafosy\Grafos\bin\Debug\Grafos.exe
+F:\Grafosy\Grafos\bin\Debug\Grafos.pdb
+F:\Grafosy\Grafos\obj\Debug\Grafos.exe
+F:\Grafosy\Grafos\obj\Debug\Grafos.pdb
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe.config
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.pdb
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Grafos.resources
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Properties.Resources.resources
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.GenerateResource.cache
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.exe
+E:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.pdb
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe.config
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.pdb
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Grafos.resources
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Properties.Resources.resources
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.GenerateResource.Cache
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.exe
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.pdb
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe.config
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.exe
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\bin\Debug\Grafos.pdb
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Grafos.resources
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.Properties.Resources.resources
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.GenerateResource.cache
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.exe
+H:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.pdb
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+F:\#Materias\3 Estructura de datos\#Grafos Csharp\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
